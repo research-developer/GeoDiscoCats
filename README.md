@@ -98,4 +98,6 @@ This is a research project exploring categorical foundations for software system
 
 ## License
 
-This is a research project. License information will be determined based on publication and collaboration requirements.
+Copyright (c) 2025 research-developer. All Rights Reserved.
+
+This is an active research project. The license will be determined upon publication. Please contact the repository owner for collaboration inquiries.
