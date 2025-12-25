@@ -98,4 +98,4 @@ This is a research project exploring categorical foundations for software system
 
 ## License
 
-[License information to be added]
+This is a research project. License information will be determined based on publication and collaboration requirements.
